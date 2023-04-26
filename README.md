@@ -13,7 +13,7 @@ This CLI takes user input and creates an HTML file that takes all the answers th
 - [License](#license)
 
 ## Usage
-Watch this video for a demo on how to use it: 
+Watch this video for a demo on how to use it: https://youtu.be/Z6DJqL1rHvA 
 
 ## Credits
 
